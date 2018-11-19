@@ -2,7 +2,9 @@
 {
     font-family: 'Rounds Black Regular';
     src: url('fonts/RoundsBlack.eot');
-    src: url('fonts/RoundsBlack.eot?#iefix') format('embedded-opentype'), url('fonts/RoundsBlack.woff') format('woff'), url('fonts/RoundsBlack.ttf') format('truetype');
+    src: url('fonts/RoundsBlack.eot?#iefix') format('embedded-opentype'),
+         url('fonts/RoundsBlack.woff') format('woff'),
+         url('fonts/RoundsBlack.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
